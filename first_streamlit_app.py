@@ -1,3 +1,3 @@
-Created the main python file
+the main python file
 import streamlit
 streamlit.title("Zena's Web catalog")
